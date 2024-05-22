@@ -17,7 +17,7 @@
 * 윤세나 - GameManger, UI
 * 이준희 - Player Settings
 * 권유리 - Enemy Settings
-* 이영대 - Item Logic
+* 이영대 - Item Logic, SoundManager
 ![sdfdsfsd](https://github.com/junhee0226/A01-Chapter3-2DGame/assets/167185915/f9eca6aa-b3a2-46d1-8244-22b419b28def)
 <br/><br/>
  
