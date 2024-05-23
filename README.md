@@ -66,7 +66,7 @@
 *오정호 튜터님, 소재철 튜터님*
 
 # 🎮 기능구현
-![PPT3-ezgif com-video-to-gif-converter](https://github.com/junhee0226/A01-Chapter3-2DGame/assets/167046265/5d564d0d-ec79-49a8-b22b-185370d25682)
+![PPT3-ezgif com-video-to-gif-converter (1)](https://github.com/junhee0226/A01-Chapter3-2DGame/assets/167046265/f2b02507-d81a-4db2-8d4e-793db848a826)
 
 
 
